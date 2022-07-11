@@ -9,7 +9,7 @@
 // "TooSmall". Please add it where needed!
 const MyNumberError = error{
     TooBig,
-    ???,
+    TooSmall,
     TooFour,
 };
 
